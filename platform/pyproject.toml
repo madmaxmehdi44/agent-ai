@@ -16,7 +16,7 @@ fastapi = "^0.96.0"
 uvicorn = { version = "^0.22.0", extras = ["standard"] }
 pydantic = { version = "^1.10.8", extras = ["dotenv"] }
 yarl = "^1.9.2"
-ujson = "^5.7.0"
+ujson = "^5.8.0"
 SQLAlchemy = { version = "^2.0.15", extras = ["asyncio"] }
 aiomysql = "^0.1.1"
 mysqlclient = "^2.1.1"
